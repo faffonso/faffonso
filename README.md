@@ -1,17 +1,10 @@
 ### Hi there! I'm Francisco Affonso 👋
 
-- I'm currently part of **[SEMEAR]**
-- Undergraduate student in mechatronics engineering at the **[University of São Paulo]**.
-- Currently studying and developing optimal control focused on path tracking for mobile robots.
+- I'm currently part of **[SEMEAR]** and an undergraduate student in mechatronics engineering at the **[University of São Paulo]**.
+- Currently studying and developing optimal control focused on path tracking for mobile robots, Utilizing technologies geared towards robotics like Robot Operating System (ROS), CasADI, PyTorch and IPOPT.
   - Iterative Linear Quadratic Regulator (iLQR/DDP).
   - Model Predective Control (MPC).
   - Model Predictive Path Integral (MPPI).
- 
-- Utilizing technologies geared towards robotics.
-  - Robot Operating System (ROS)
-  - CasADI
-  - PyTorch
-  - IPOPT
 
 <div>
   <a href="https://github.com/faffonso">
