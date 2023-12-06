@@ -1,21 +1,31 @@
 ### Hi there! I'm Francisco Affonso 👋
 
 - I'm currently part of **[SEMEAR]**
-- Working on a **[Mini-sumo]** and **[AgroBotics]** project
+- Undergraduate student in mechatronics engineering at the **[University of São Paulo]**.
+- Currently studying and developing optimal control focused on path tracking for mobile robots.
+  - Iterative Linear Quadratic Regulator (iLQR/DDP).
+  - Model Predective Control (MPC).
+  - Model Predictive Path Integral (MPPI).
+ 
+- Utilizing technologies geared towards robotics.
+  - Robot Operating System (ROS)
+  - CasADI
+  - PyTorch
+  - IPOPT
 
 <div>
   <a href="https://github.com/faffonso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faffonso&show_icons=true&theme=gotham&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faffonso&layout=compact&langs_count=6&theme=gotham&exclude_repo=Rocket.Q,podcastr-nlw5"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Faffonso-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Faffonso-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Faffonso-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Faffonso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Faffonso-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Faffonso-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Faffonso-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Faffonso-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Faffonso-NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Faffonso-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Faffonso-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
 
 ##
@@ -32,5 +42,4 @@
 <!-- links -->
 
 [SEMEAR]: https://github.com/Grupo-SEMEAR-USP "Grupo SEMEAR - EESC/USP"
-[Mini-sumo]: https://github.com/Grupo-SEMEAR-USP/Mini-Sumo2021 "Mini-sumo Repository"
-[AgroBotics]: https://github.com/Grupo-SEMEAR-USP/AgroBotics "AgroBotics Repository"
+[University of São Paulo]: [https://eesc.usp.br/]
